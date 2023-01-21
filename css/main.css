@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+header{
+    margin-bottom: 1rem;
+    padding: 1.5rem;
+}
+input[type=search]{
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+    width: 40%;
+    text-align: center;
+}
